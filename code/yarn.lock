@@ -1849,10 +1849,10 @@
   dependencies:
     chalk "^4.1.0"
 
-"@covalent/core@3.2.4":
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/@covalent/core/-/core-3.2.4.tgz#347392a479278db3e3c1d7305c12b0b57e93db27"
-  integrity sha512-NbBdM4FTdRPYctBERGEGxyedlRnZfZaW0PTCqp5ygfXx5Cj2K1s6rGUM0KOTHA2Ts39u1wcXxIRoj/F4plUxUw==
+"@covalent/core@4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@covalent/core/-/core-4.2.1.tgz#62276aaaa854122c3d2304336b9b2602affaa8f2"
+  integrity sha512-zp6josZ2dHm6VygezEHW4V/vx7xcMaddjkwPhE8uctL2OhULcsscQ9lSYTRilbYChMOpj5Xo2G1ANp44ChiPhA==
   dependencies:
     tslib "^2.0.0"
 
