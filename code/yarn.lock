@@ -1856,12 +1856,11 @@
   dependencies:
     tslib "^2.0.0"
 
-"@covalent/echarts@3.2.4":
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/@covalent/echarts/-/echarts-3.2.4.tgz#801f5d5237c2e6d0d33050f68a09237223328f52"
-  integrity sha512-rZ/5aIaTE0yHJ/J07LArjh9Ls8TZ5RkNmW+20GlzsSTBl4j1FgKQQfMPHYa8TP6M+U0Q+aupPNwuPHlANykgog==
+"@covalent/echarts@4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@covalent/echarts/-/echarts-4.2.1.tgz#1bb10365952cc6d1956714d26e0f609b554fa3b6"
+  integrity sha512-w6rB1oFZ8saGi0J44Kicm3/snNakHj1rPLxXHVAJYymEjSv801jAPiY8waXN2wbAQoYYWezZSJSAC6yBGOy54Q==
   dependencies:
-    echarts-wordcloud "^1.1.3"
     tslib "^2.0.0"
 
 "@cspotcode/source-map-support@^0.8.0":
@@ -7779,11 +7778,6 @@ ecdsa-sig-formatter@1.0.11:
   integrity sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ==
   dependencies:
     safe-buffer "^5.0.1"
-
-echarts-wordcloud@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/echarts-wordcloud/-/echarts-wordcloud-1.1.3.tgz#07b140c8ba76b19c317b43c310f3d5dc99289ff2"
-  integrity sha512-Et8D5xEAoYkidmHun+hEH+2lF9dhCt6D0JJ390vlr2r/1zwhhZAbcL01CEvG93QcMcJpSvSPK8vRiGkTbMHRxg==
 
 echarts@^5.3.3:
   version "5.3.3"
